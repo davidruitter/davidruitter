@@ -1,13 +1,18 @@
-### Hi there 👋
-> I am a Software Engineer and Business Informatics Student
 
-<span>
-  Connect with me on
-</span>
+### 👋 Hi there, I'm David!
 
+I'm a Software Engineer and Business Informatics Student with a passion for new ideas.<br/>
+I enjoy working with TypeScript and React and exploring new tools and frameworks.
+
+##### 🌱 What I'm currently learning
+
+I'm currently learning [T3 Stack](https://create.t3.gg/), [zustand](https://github.com/pmndrs/zustand) and [Prompting](https://learnprompting.org/) to improve my skills and stay up-to-date with the latest trends in the industry.
+
+#### 📫 How to reach me
 <a href="https://de.linkedin.com/in/david-ruitter">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
+
 
 
 
